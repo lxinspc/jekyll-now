@@ -23,6 +23,14 @@ It also, was perhaps one of the first times that I started to think about how th
 
 In fact, as a slight cheat, it covers another book I considered bringing - William Latham and Stephen Todds Evolutionary Art and Computers, who I had first encoutered via his work with the Shamen. One that seems especially apt, as he is now at Goldsmiths.
 
+Mathematics, and especially pure mathematics for me opens doors, to new ways we can explore what it means to be human. This book started me out on this road.
+
+## Some Other Books
+
+As mentioned above, William Latham's work had a huge influence on me - and after rediscovering his work, at a show by Goldsmiths and Horniman museum last year, I tracked down his early book on his work.
+
+A fascinating insight into his ideas, and the tools developed and how from inceredibly simple concepts - hugly complex ideas can literally evolve, with unexpected depths. 
+
 ## A Fish Can't Judge the Water - Comments
 
 The article raises a number of interesting questions, perhaps most signficantly is it's discussion of how software influences how we think (and one can't but help think that this is a cyclical relationship, how we think of course influences the software we use).
