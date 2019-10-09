@@ -53,6 +53,8 @@ Open Source / Free, can and often does this as well, but it's often poor - somet
 
 To summise - we have to find the right tools, to do the job we need to do. From a personal point of view - the ones that work for me, are Open Source / Free, but not all are. Will all my art be open source - that is an interesting question, that is yet to be answered…
 
+It should not go unmentioned, that without the achievments of Open Source / Free software this blog would have to exist in a very different form. Using git, github and an OpenSource library to generate the static site. I was able within minutes to setup an effective and powerful blog.
+
 lxinspc2019
 
 
