@@ -62,7 +62,7 @@ lxinspc2019
 
 
 
-[1]:(http://www.constantvzw.org/verlag/spip.php?page=article&id_article=72&mot_filtre=9&id_lang=0)
+[1]: http://www.constantvzw.org/verlag/spip.php?page=article&id_article=72&mot_filtre=9&id_lang=0
 
 
 
