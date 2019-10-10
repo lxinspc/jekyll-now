@@ -7,6 +7,8 @@ title: Computational Arts-Based Research and Theory - Week One
 
 Well, I'm trtying to write up my story, and I stumble on [this][1] whilst procrastinating…
 
+Looks like [this][2] should be an interesting read to help understand(?) it better
+
 ## Attempt 1
 
 #### INPUT: `I have to write a story from the point of view of an algorithm - what do you think?`
@@ -76,3 +78,4 @@ I was sitting in a chair by
 
 
 [1]: http://talktotransformer.com
+[2]: https://openai.com/blog/better-language-models/
