@@ -14,7 +14,9 @@ Looks like [this][2] should be an interesting read to help understand(?) it bett
 #### INPUT: `I have to write a story from the point of view of an algorithm - what do you think?`
 
 #### OUTPUT: 
-````I have to write a story from the point of view of an algorithm - what do you think? I'll give you the code and you can fix it.
+
+````
+I have to write a story from the point of view of an algorithm - what do you think? I'll give you the code and you can fix it.
 
 
 Code: I = 0 ; I = A*0.9 ; if (I <= 0) { x = f(I); } else { x = I*x + 1 ; f(I); y = f(I); } f(I);
@@ -40,7 +42,8 @@ If that makes my life even
 
 #### OUTPUT:
 
-````The Gittens-Index is a directory of the cats that you've given to the Gittens Project as foster cats. It is maintained by the Gittens Project's Cat Adoption Committee.
+````
+The Gittens-Index is a directory of the cats that you've given to the Gittens Project as foster cats. It is maintained by the Gittens Project's Cat Adoption Committee.
 
 For a non-feral cat, you should check with a rescue organization to find out if a G kitten is available. You'll also find that in some cases people want to buy G kittens. Those people probably won't be able to afford it, and they probably won't be able to find a rescue that could.
 
@@ -57,7 +60,8 @@ If you are a rescue cat who is willing and able to foster, you are welcomed to a
 
 #### OUTPUT:
 
-````"I don't know," the man said. "They're all gone." The two children were gone.
+````
+"I don't know," the man said. "They're all gone." The two children were gone.
 
 I asked the woman in the room if she knew what happened. She said yes, she saw the boy's body and thought he was drowned.
 
