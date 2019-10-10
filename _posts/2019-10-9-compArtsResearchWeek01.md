@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computational Arts-Based Research and Theory - Week One
+title: Week One
 ---
 
 # Weekly Blog Post 01

@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Computational Arts-Based Research and Theory - Week One
+title: A Short Story from the the POV of an Algorithm
 ---
-
-# A Short Story from the the POV of an Algorithm
 
 Well, I'm trtying to write up my story, and I stumble on [this][1] whilst procrastinating…
 
