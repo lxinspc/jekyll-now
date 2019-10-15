@@ -14,10 +14,10 @@ So here, and look away, if as they say, you don't want to see how the sausage wa
 ![after1][after1]
 ![after2][after2]
 
-[before]: images/before.png
-[during]: images/during.png
-[after1]: images/after1.png
-[after2]: images/after2.png
+[before]: ../images/before.png
+[during]: ../images/during.png
+[after1]: ../images/after1.png
+[after2]: ../images/after2.png
 
 
 [1]: compArtsResearchWeek02-algorithimStory/
