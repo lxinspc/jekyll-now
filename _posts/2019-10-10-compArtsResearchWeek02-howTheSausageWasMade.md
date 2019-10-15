@@ -20,4 +20,4 @@ So here, and look away, if as they say, you don't want to see how the sausage wa
 [after2]: /localImages/car2/after2.png
 
 
-[1]: compArtsResearchWeek02-algorithimStory/
+[1]: /compArtsResearchWeek02-algorithimStory/
