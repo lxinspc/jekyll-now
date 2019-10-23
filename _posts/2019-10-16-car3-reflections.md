@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Two
+title: Week Three
 ---
 
 I expected to come into a less hands on class, such as Computational Arts-Research and Theory desperatly trying to catch up with everyone else. In fact, I still expect this, to happen at some point.
