@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Four
+title: Week Three
 ---
 
 A lot of very interesting things in this weeks lecture to think about.
