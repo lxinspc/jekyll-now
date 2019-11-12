@@ -46,7 +46,7 @@ Clicking the plus sign here, will allow you to enter text in the top line of the
 Save and rebuild - the error should now be gone.
 
 [error]: /localImages/of/ofxSyphon/001_error.png
-[step1]: /LocalImages/of/ofxSyphon/002_projectSettings.png
-[step2]: /LocalImages/of/ofxSyphon/002_BuildSettings.png
-[step3]: /LocalImages/of/ofxSyphon/003_search.png
-[step4]: /LocalImages/of/ofxSyphon/004_setDeep.png
+[step1]: /localImages/of/ofxSyphon/002_projectSettings.png
+[step2]: /localImages/of/ofxSyphon/002_BuildSettings.png
+[step3]: /localImages/of/ofxSyphon/003_search.png
+[step4]: /localImages/of/ofxSyphon/004_setDeep.png
