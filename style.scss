@@ -18,10 +18,10 @@ html {
 }
 
 body {
-	background: $white;
+	background: $darkerGray;
   font: 18px/1.4 eurostile, sans-serif;
   font-weight: 400;
-  color: $darkGray;
+  color: $white;
 }
 
 .container {
@@ -193,17 +193,17 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $white;
   cursor: pointer;
   font-family: futura-pt, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 28px;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $white;
   font-size: 16px;
 
   @include mobile {
